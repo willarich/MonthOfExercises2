@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/HP/Documents/Code/MonthOfExercises/Day5/Assets/Scenes/Day5.unity
+  isLoaded: 1
+  isActive: 1
