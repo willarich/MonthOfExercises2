@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\Code\CS_projects\Day2\Day2\bin\Debug\Day2.exe.config
+C:\Users\HP\Documents\Code\CS_projects\Day2\Day2\bin\Debug\Day2.exe
+C:\Users\HP\Documents\Code\CS_projects\Day2\Day2\bin\Debug\Day2.pdb
+C:\Users\HP\Documents\Code\CS_projects\Day2\Day2\obj\Debug\Day2.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Code\CS_projects\Day2\Day2\obj\Debug\Day2.Form1.resources
+C:\Users\HP\Documents\Code\CS_projects\Day2\Day2\obj\Debug\Day2.Properties.Resources.resources
+C:\Users\HP\Documents\Code\CS_projects\Day2\Day2\obj\Debug\Day2.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Code\CS_projects\Day2\Day2\obj\Debug\Day2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Code\CS_projects\Day2\Day2\obj\Debug\Day2.exe
+C:\Users\HP\Documents\Code\CS_projects\Day2\Day2\obj\Debug\Day2.pdb

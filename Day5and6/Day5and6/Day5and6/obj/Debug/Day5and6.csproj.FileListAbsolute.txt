@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\Code\MonthOfExercises\Day5and6\Day5and6\Day5and6\bin\Debug\Day5and6.exe.config
+C:\Users\HP\Documents\Code\MonthOfExercises\Day5and6\Day5and6\Day5and6\bin\Debug\Day5and6.exe
+C:\Users\HP\Documents\Code\MonthOfExercises\Day5and6\Day5and6\Day5and6\bin\Debug\Day5and6.pdb
+C:\Users\HP\Documents\Code\MonthOfExercises\Day5and6\Day5and6\Day5and6\obj\Debug\Day5and6.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Code\MonthOfExercises\Day5and6\Day5and6\Day5and6\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\HP\Documents\Code\MonthOfExercises\Day5and6\Day5and6\Day5and6\obj\Debug\Day5and6.Properties.Resources.resources
+C:\Users\HP\Documents\Code\MonthOfExercises\Day5and6\Day5and6\Day5and6\obj\Debug\Day5and6.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Code\MonthOfExercises\Day5and6\Day5and6\Day5and6\obj\Debug\Day5and6.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Code\MonthOfExercises\Day5and6\Day5and6\Day5and6\obj\Debug\Day5and6.exe
+C:\Users\HP\Documents\Code\MonthOfExercises\Day5and6\Day5and6\Day5and6\obj\Debug\Day5and6.pdb

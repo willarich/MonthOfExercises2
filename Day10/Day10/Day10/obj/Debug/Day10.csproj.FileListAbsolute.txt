@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\Code\MonthOfExercises\Day10\Day10\Day10\bin\Debug\Day10.exe.config
+C:\Users\HP\Documents\Code\MonthOfExercises\Day10\Day10\Day10\bin\Debug\Day10.exe
+C:\Users\HP\Documents\Code\MonthOfExercises\Day10\Day10\Day10\bin\Debug\Day10.pdb
+C:\Users\HP\Documents\Code\MonthOfExercises\Day10\Day10\Day10\obj\Debug\Day10.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Code\MonthOfExercises\Day10\Day10\Day10\obj\Debug\Day10.Form1.resources
+C:\Users\HP\Documents\Code\MonthOfExercises\Day10\Day10\Day10\obj\Debug\Day10.Properties.Resources.resources
+C:\Users\HP\Documents\Code\MonthOfExercises\Day10\Day10\Day10\obj\Debug\Day10.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Code\MonthOfExercises\Day10\Day10\Day10\obj\Debug\Day10.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Code\MonthOfExercises\Day10\Day10\Day10\obj\Debug\Day10.exe
+C:\Users\HP\Documents\Code\MonthOfExercises\Day10\Day10\Day10\obj\Debug\Day10.pdb
